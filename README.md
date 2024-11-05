@@ -2,4 +2,4 @@
 React fontend project with search functionality.
 
 ##
-Fetching and displaing products from external API.
+Fetching and displaying products from external API.
